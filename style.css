@@ -4241,12 +4241,23 @@ div.line-chart .chart-legend li {
   padding-right: 30px;
   padding-bottom: 30px;
   padding-left: 30px;
-  background-image: url(https://via.placeholder.com/500x334);
+
+/*  background-image: url(https://via.placeholder.com/500x334); */ 
+  background-image: url(images/dhanwantari.college.front.view.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 2px;
+  opacity: 0.6;
+  
 }
+
+.wpb_wrapper > h4{
+  color: green;
+  opacity: 1;
+}  
+
+
 
 .contact-box h6 {
   color: #f26522;
