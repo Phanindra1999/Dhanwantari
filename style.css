@@ -2264,7 +2264,7 @@ ul.info-list.info_on_right_side li:last-child {
 }
 
 .entry-content {
-  padding: 70px 0 100px;
+  padding: 10px 0 100px;
 }
 
 .content-area .post-box {
@@ -4328,7 +4328,7 @@ div.line-chart .chart-legend li {
 @media (max-width: 991px) {
   .section-padd,
 .section-padd-2 {
-    padding: 70px 0;
+    padding: 10px 0;
   }
 
   .section-padd-top {
