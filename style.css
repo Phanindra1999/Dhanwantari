@@ -2089,6 +2089,7 @@ ul.info-list.info_on_right_side li:last-child {
   background: url(images/Dhanwantari-header-image.png) no-repeat center center;
   background-size: cover;
 }
+
 .page-title{
   font-size: 30px;
 }
@@ -3890,14 +3891,14 @@ a .service-box {
   margin: 22px 0;
 }
 .member-item-3 .mem-info .social-mem a {
-  color: #959595;
+  color: #B14215;
   margin-right: 12px;
 }
 .member-item-3 .mem-info .social-mem a:hover {
-  color: #f26522;
+  color: #B14215;
 }
 .member-item-3:hover {
-  box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 80px rgba(177, 66, 21 , 0.20);
 }
 
 .fun-facts {
@@ -4861,7 +4862,7 @@ div.line-chart .chart-legend li {
 }
 .cta-section{
   padding: 75px 85px 55px;
-  background-image: url(images/texthtml-join.png);
+  background-image: url(images/join-us.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
