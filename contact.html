@@ -15,6 +15,12 @@
 	<link rel="stylesheet" id="consultax-style-css" href="style.css" type="text/css" media="all">
 
 	<link rel="shortcut icon" href="favicon.png">
+	
+
+	<script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+	<link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+	
+	
 </head>
 
 <body class="royal_preloader">
@@ -183,8 +189,8 @@
 	        </div>
 	    </header>
 
-	<!--<div id="content" class="site-content">
-			<div class="page-header">
+		<div id="content" class="site-content">
+			<!--<div class="page-header">
 			    <div class="container">
 			        <div class="breadc-box no-line">
 			            <div class="row">
@@ -313,10 +319,47 @@
 						                </div>
 						            </div>
 						        </div>
-						    </div>
 						</section>
-								
-						<img src="https://via.placeholder.com/1170x500?text=google+map" alt="">
+
+						<div id='map' style='width:1170px; height:500px;'></div>
+						<script>
+								 mapboxgl.accessToken = 'pk.eyJ1IjoicGhhbmliOTk5IiwiYSI6ImNsZjB2eGhubDAyam4zd21wb3drNzk0Nm0ifQ.ZAO-O98uT-n96Pa5Hsiv0w';
+								  var map = new mapboxgl.Map({
+								   container: 'map',
+								style: 'mapbox://styles/mapbox/streets-v11',
+								center: [77.5089874863628,13.07282415894893], // starting position [lng, lat]
+        zoom: 12, // starting zoom
+								  });
+
+								  const geojson = {
+  type: 'FeatureCollection',
+  features: [
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [77.5089874863628,13.07282415894893]
+      },
+      properties: {
+        title: 'Mapbox',
+        description: 'Dhanwantari Academy For Management Studies'
+      }
+    }
+  ]
+};
+for (const feature of geojson.features) {
+  // create a HTML element for each feature
+  const el = document.createElement('div');
+  el.className = 'marker';
+
+  // make a marker for each feature and add to the map
+  new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).addTo(map);
+}
+						</script>
+                           <!--<img style = "width: 100%;height: auto;" src="https://via.placeholder.com/1170x500?text=google+map" alt="">-->
+						
+						
+						
 
 						<section class="wpb_row row-fluid address-section">
 						    <div class="container">
