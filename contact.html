@@ -319,49 +319,55 @@
 						                </div>
 						            </div>
 						        </div>
-						</section>
-
-						<div id='map' style='width:1170px; height:500px;'></div>
+								<div id='map' style='width:100%; height:500px;border-radius: 20px;'></div>
 						<script>
 								 mapboxgl.accessToken = 'pk.eyJ1IjoicGhhbmliOTk5IiwiYSI6ImNsZjB2eGhubDAyam4zd21wb3drNzk0Nm0ifQ.ZAO-O98uT-n96Pa5Hsiv0w';
 								  var map = new mapboxgl.Map({
 								   container: 'map',
 								style: 'mapbox://styles/mapbox/streets-v11',
 								center: [77.5089874863628,13.07282415894893], // starting position [lng, lat]
-        zoom: 12, // starting zoom
-								  });
+        						zoom: 12, // starting zoom
+									  });
 
 								  const geojson = {
-  type: 'FeatureCollection',
-  features: [
-    {
-      type: 'Feature',
-      geometry: {
-        type: 'Point',
-        coordinates: [77.5089874863628,13.07282415894893]
-      },
-      properties: {
-        title: 'Mapbox',
-        description: 'Dhanwantari Academy For Management Studies'
-      }
-    }
-  ]
-};
-for (const feature of geojson.features) {
-  // create a HTML element for each feature
-  const el = document.createElement('div');
-  el.className = 'marker';
+  							type: 'FeatureCollection',
+  							features: [
+    						{
+							type: 'Feature',
+							geometry: {
+								type: 'Point',
+								coordinates: [77.5089874863628,13.07282415894893]
+							},
+							properties: {
+								title: 'Mapbox',
+								description: 'Dhanwantari Academy For Management Studies'
+							}
+							}
+						]
+						};
+						for (const feature of geojson.features) {
+						// create a HTML element for each feature
+						const el = document.createElement('div');
+						el.className = 'marker';
 
-  // make a marker for each feature and add to the map
-  new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).addTo(map);
-}
+						// make a marker for each feature and add to the map
+						new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).addTo(map);
+						}
 						</script>
-                           <!--<img style = "width: 100%;height: auto;" src="https://via.placeholder.com/1170x500?text=google+map" alt="">-->
+						</section>
+
 						
+                           <!--<img style = "width: 100%;height: auto;" src="https://via.placeholder.com/1170x500?text=google+map" alt="">-->
+
+						   <div class="center">
+							<a href="https://www.google.com/maps/dir//Dhanwantari+PU+College+Bangalore,+M.A.J+Foundation+(R),+No.41%2F3,+Vinayak+Nagar+Railway+Station+Hesarghatta+Main+Road,+near+Chikbanavar,+Chikkabanavara,+Bengaluru,+Karnataka+560090/@12.9133023,77.5108109,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bae23742ef9f6bf:0xe0691559105dacf4!2m2!1d77.5089935!2d13.07285" target="_blank">
+								<button class="btn-grad">Navigate on Google Maps</button>
+							</a>
+						  </div>
 						
 						
 
-						<section class="wpb_row row-fluid address-section">
+						<!--<section class="wpb_row row-fluid address-section">
 						    <div class="container">
 						        <div class="row">
 						            <div class="wpb_column column_container col-sm-6">
@@ -369,16 +375,18 @@ for (const feature of geojson.features) {
 						                    <div class="wpb_wrapper">
 						                        <div class="wpb_text_column wpb_content_element">
 						                            <div class="wpb_wrapper">
-						                                <h4>London Office</h4>
+														<h4>London Office</h4>
 						                                <p>007 OceanThemes St, Broughton Rd, London, England</p>
+						                                
 														<div class="empty_space_30"><span class="empty_space_inner"></span></div>
 						                            </div>
 						                        </div>
 
 						                        <div class="wpb_text_column wpb_content_element">
 						                            <div class="wpb_wrapper">
-						                                <h4>Berlin Office</h4>
+														<h4>Berlin Office</h4>
 						                                <p>Hans-Wilhelm-Gasse 0/3, 98051 Schwarzenberg</p>
+						                                
 						                            </div>
 						                        </div>
 						                    </div>
@@ -389,15 +397,16 @@ for (const feature of geojson.features) {
 						                    <div class="wpb_wrapper">
 						                        <div class="wpb_text_column wpb_content_element">
 						                            <div class="wpb_wrapper">
-						                                <h4>New York Office</h4>
+														<h4>New York Office</h4>
 						                                <p>6803 Dickens Islands Apt. 567, Port Malikaview, TX 14942</p>
+						                                
 														<div class="empty_space_30"><span class="empty_space_inner"></span></div>
 						                            </div>
 						                        </div>
 
 						                        <div class="wpb_text_column wpb_content_element">
 						                            <div class="wpb_wrapper">
-						                                <h4>Madrid Office</h4>
+														<h4>Madrid Office</h4>
 						                                <p>Travessera Eric, 896, 59° 8°, 61008, Sarabia Alta</p>
 						                            </div>
 						                        </div>
@@ -406,7 +415,7 @@ for (const feature of geojson.features) {
 						            </div>
 						        </div>
 						    </div>
-						</section>
+						</section>-->
 
 					</div>
 			    </div>
