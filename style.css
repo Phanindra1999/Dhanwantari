@@ -3599,7 +3599,7 @@ a .service-box {
 }
 .testi-item .testi-head {
   overflow: hidden;
-  padding: 30px;
+  padding: 10px;
 }
 .testi-item .testi-head img {
   float: left;
@@ -3620,14 +3620,14 @@ a .service-box {
   opacity: 0.2;
 }
 .testi-item .testi-content {
-  padding: 40px 30px 35px;
+  padding: 6px 7px 11px;
   position: relative;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
 }
 .testi-item .testi-content p {
   margin-bottom: 0;
-  margin-top: 30px;
+  margin-top: 5px;
 }
 .testi-item .testi-content > i {
   font-size: 70px;
