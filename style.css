@@ -4894,7 +4894,7 @@ div.line-chart .chart-legend li {
 .quote-section{
   padding-top: 130px !important;
   padding-bottom: 130px !important;
-  background-image: url(https://via.placeholder.com/1170x400/666);
+  background-image: url(images/curriculum-header.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4951,26 +4951,29 @@ div.line-chart .chart-legend li {
 .step1-col{
   padding-top: 100px;
   padding-bottom: 135px;
-  background-image: url(https://via.placeholder.com/500x243);
+  background-image: url(images/curriculum-1.png);
   background-position: center ;
   background-repeat: no-repeat;
   background-size: cover;
+  border-radius: 5px;
 }
 .step2-col{
   padding-top: 100px;
   padding-bottom: 135px;
-  background-image: url(https://via.placeholder.com/500x243);
+  background-image: url(images/curriculum-2.png);
   background-position: center ;
   background-repeat: no-repeat;
   background-size: cover;
+  border-radius: 5px;
 }
 .step3-col{
   padding-top: 100px;
   padding-bottom: 135px;
-  background-image: url(https://via.placeholder.com/500x243);
+  background-image: url(images/curriculum-3.png);
   background-position: center ;
   background-repeat: no-repeat;
   background-size: cover;
+  border-radius: 5px;
 }
 .gray-line{
   height: 1px;
