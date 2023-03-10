@@ -2299,7 +2299,7 @@ ul.info-list.info_on_right_side li:last-child {
   padding-right: 0;
 }
 .boxed-content .section-padd {
-  padding: 30px 100px;
+  padding: 30px 50px;
 }
 
 .entry-content {
@@ -2702,11 +2702,11 @@ ul.info-list.info_on_right_side li:last-child {
 --------------------------------------------------------------*/
 @media (max-width: 991px) {
   .boxed-content > section {
-    padding: 0 50px;
+    padding: 0 20px;
   }
 
   .boxed-content .section-padd {
-    padding: 50px;
+    padding: 30px;
   }
 
   .content-area .page-pagination {
