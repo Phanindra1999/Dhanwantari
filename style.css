@@ -4899,6 +4899,16 @@ div.line-chart .chart-legend li {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.quote-section2
+{
+  padding-top: 130px !important;
+  padding-bottom: 130px !important;
+  background-image: url(images/ug-header.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .cta-section{
   padding: 75px 85px 55px;
   background-image: url(images/join-us.png);
