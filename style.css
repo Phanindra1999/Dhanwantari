@@ -98,6 +98,7 @@ abbr[title] {
   text-decoration: underline dotted;
   /* 2 */
 }
+
 .marker {
   background-image: url('images/map-icon.png');
   background-size: cover;
@@ -4967,6 +4968,17 @@ div.line-chart .chart-legend li {
   background-size: cover;
   border-radius: 5px;
 }
+
+.step1-col1
+{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/ug-1.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
 .step2-col{
   padding-top: 100px;
   padding-bottom: 135px;
@@ -4976,10 +4988,28 @@ div.line-chart .chart-legend li {
   background-size: cover;
   border-radius: 5px;
 }
+.step2-col1{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/ug-2.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
 .step3-col{
   padding-top: 100px;
   padding-bottom: 135px;
   background-image: url(images/curriculum-3.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+.step3-col1{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/ug-3.png);
   background-position: center ;
   background-repeat: no-repeat;
   background-size: cover;
