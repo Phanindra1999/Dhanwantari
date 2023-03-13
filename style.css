@@ -596,7 +596,7 @@ a.the-title:hover {
 }
 
 .section-padd-top {
-  padding-top: 115px;
+  padding-top: 10px;
 }
 
 .section-padd-top70 {
@@ -5000,6 +5000,17 @@ div.line-chart .chart-legend li {
   border-radius: 5px;
 }
 
+.step1-col1111
+{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/cp-1.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+
 
 .step2-col{
   padding-top: 100px;
@@ -5073,6 +5084,34 @@ div.line-chart .chart-legend li {
   background-size: cover;
   border-radius: 5px;
 }
+
+.step2-col1111{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/cp-2.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+.step3-col1111{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/cp-3.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+.step2-col11111{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/cp-4.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
 .gray-line{
   height: 1px;
   background: #ebebeb;
@@ -5092,7 +5131,7 @@ div.line-chart .chart-legend li {
 .custom-padd-1{
   padding-top: 300px;
   padding-bottom: 250px;
-  background: url(https://via.placeholder.com/586x550) no-repeat center;
+  background: url(images/mission.png) no-repeat center;
   background-size: cover; 
 }
 .custom-padd-2{
