@@ -4989,6 +4989,18 @@ div.line-chart .chart-legend li {
   background-size: cover;
   border-radius: 5px;
 }
+.step1-col111
+{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/tally.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+
 .step2-col{
   padding-top: 100px;
   padding-bottom: 135px;
@@ -5007,6 +5019,15 @@ div.line-chart .chart-legend li {
   background-size: cover;
   border-radius: 5px;
 }
+.step2-col11{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/web-design-2.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
 .step3-col{
   padding-top: 100px;
   padding-bottom: 135px;
@@ -5020,6 +5041,33 @@ div.line-chart .chart-legend li {
   padding-top: 100px;
   padding-bottom: 135px;
   background-image: url(images/ug-3.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+.step3-col11{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/excel.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+.step3-col111{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/pd.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+.step2-col111{
+  padding-top: 100px;
+  padding-bottom: 135px;
+  background-image: url(images/exam.png);
   background-position: center ;
   background-repeat: no-repeat;
   background-size: cover;
