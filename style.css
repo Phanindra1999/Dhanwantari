@@ -99,6 +99,15 @@ abbr[title] {
   /* 2 */
 }
 
+#preloader
+{
+  background-color: #000 url(images/loader.gif) no-repeat center center;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 1000;
+}
+
 .marker {
   background-image: url('images/map-icon.png');
   background-size: cover;
