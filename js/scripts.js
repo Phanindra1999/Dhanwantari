@@ -4,12 +4,12 @@
     //Preloader
     Royal_Preloader.config({
         mode           : 'logo',
-        logo           : 'images/logo-blue.png',
-        logo_size      : [187, 40],
+        logo           : 'images/map-icon.png',
+        logo_size      : [300,300],
         showProgress   : true,
         showPercentage : true,
         text_colour: '#0a0f2b',
-        background:  '#fff'
+        background:  '#FFFFFF'
     });
 
     //Project Filter
