@@ -637,6 +637,15 @@ a.the-title:hover {
   padding-bottom: 0;
 }
 
+.about-page-margin{
+  margin-left: 100px;
+
+}
+
+.about-page-margins{
+  margin-left: 20px;
+}
+
 .relative{
   position: relative;
   z-index: 20;
@@ -684,6 +693,15 @@ a.the-title:hover {
 }
 .text-light .text-primary {
   color: #f26522;
+}
+
+h5.about-page-margin {
+  margin-top: -30px; 
+  margin-bottom: 10px; 
+}
+
+p.lead {
+  margin-top: 10px; /* add margin above paragraph */
 }
 
 .box-shadow {
