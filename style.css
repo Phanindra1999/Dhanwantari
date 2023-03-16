@@ -614,6 +614,7 @@ a.the-title:hover {
 
 .padding-box {
   padding: 10px 40px;
+  padding-top: 30px;
 }
 
 .padding-box-2 {
@@ -635,6 +636,15 @@ a.the-title:hover {
 .padding-top-bottom-0 {
   padding-top: 0;
   padding-bottom: 0;
+}
+
+.about-page-margin{
+  margin-left: 100px;
+
+}
+
+.about-page-margins{
+  margin-left: 20px;
 }
 
 .relative{
@@ -684,6 +694,15 @@ a.the-title:hover {
 }
 .text-light .text-primary {
   color: #f26522;
+}
+
+h5.about-page-margin {
+  margin-top: -43px; 
+  margin-bottom: 10px; 
+}
+
+p.lead {
+  margin-top: 10px; /* add margin above paragraph */
 }
 
 .box-shadow {
