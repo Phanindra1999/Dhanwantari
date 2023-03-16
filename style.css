@@ -614,6 +614,7 @@ a.the-title:hover {
 
 .padding-box {
   padding: 10px 40px;
+  padding-top: 30px;
 }
 
 .padding-box-2 {
@@ -696,7 +697,7 @@ a.the-title:hover {
 }
 
 h5.about-page-margin {
-  margin-top: -30px; 
+  margin-top: -43px; 
   margin-bottom: 10px; 
 }
 
