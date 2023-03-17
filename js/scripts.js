@@ -1,7 +1,9 @@
 (function($) {
   "use strict";
 
-    //Preloader
+   
+
+      //Preloader
     Royal_Preloader.config({
         mode           : 'logo',
         logo           : 'images/map-icon.png',
@@ -10,7 +12,7 @@
         showPercentage : true,
         text_colour: '#0a0f2b',
         background:  '#FFFFFF'
-    });
+    });  
 
     //Project Filter
     $(window).on("load", function(){
