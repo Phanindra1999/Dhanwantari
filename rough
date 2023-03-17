@@ -1,0 +1,243 @@
+
+<meta name="robots" content="noindex">
+<section class="wpb_row row-fluid section-padd bg-light">
+    <div class="container" style="width: 60%;">
+        <div class="row">
+            <div class="wpb_column column_container col-sm-12 col-md-9">
+                <div class="column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="section-head ">
+                            <h6><span></span></h6>
+                            <h1 class="section-title">B.Com - Add On Programs</h2>
+                        </div>
+
+                        <div class="empty_space_30 md-hidden sm-hidden"><span class="empty_space_inner"></span></div>
+                    </div>
+                </div>
+            </div>
+            <section id="section-slider1" class="fullwidthbanner-container" aria-label="section-slider">
+                <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                      <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
+                      <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
+                      <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
+                      
+    
+                    </ol>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <a href="bcom-cap.html"><img style="border-radius: 10px;" class="d-block w-100" src="images/aop-1.png" alt="First slide"></a>
+                        
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 style="font-weight: bolder;font-size: xx-large;">Chartered Accountancy India</h1>
+                            
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                        <a href="bcom-cap.html"><img style="border-radius: 10px;" class="d-block w-100" src="images/aop-2.png" alt="Second slide"></a>
+                        
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 style="font-weight: bolder;font-size: xx-large;">Global Financial Markets</h1>
+                            
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                        <a href="bcom-cap.html"><img style="border-radius: 10px;" class="d-block w-100" src="images/aop-3.png" alt="Third slide"></a>
+                        
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 style="font-weight: bolder;font-size: xx-large;">Certified Financial Planner USA</h1>
+                            
+                          </div>
+                      </div>
+                      
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button" data-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button" data-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </div>
+                  
+            </section>
+
+
+            <div class="wpb_column column_container col-sm-12 col-md-3">
+                <div class="column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="wpb_text_column wpb_content_element text-right mobile-left">
+                            <div class="wpb_wrapper">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+<section class="wpb_row row-fluid section-padd bg-light">
+    <div class="container" style="width: 60%;">
+        <div class="row">
+            <div class="wpb_column column_container col-sm-12 col-md-9">
+                <div class="column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="section-head ">
+                            <h6><span></span></h6>
+                            <h1 class="section-title">BCA - Add On Programs</h2>
+                        </div>
+
+                        <div class="empty_space_30 md-hidden sm-hidden"><span class="empty_space_inner"></span></div>
+                    </div>
+                </div>
+            </div>
+            <section id="section-slider1" class="fullwidthbanner-container" aria-label="section-slider">
+                <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                      <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
+                      <li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
+                      <li data-target="#carouselExampleIndicators2" data-slide-to="2"></li>
+                      
+    
+                    </ol>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <a href="bca-cap.html"><img style="border-radius: 10px;" class="d-block w-100" src="images/aop-4.png" alt="First slide">
+                        </a>
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 style="font-weight: bolder;font-size: xx-large;">Data Science</h1>
+                            
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                        <a href="bca-cap.html"><img style="border-radius: 10px;" class="d-block w-100" src="images/aop-5.png" alt="Second slide">
+                        </a>
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 style="font-weight: bolder;font-size: xx-large;">Full Stack Developer</h1>
+                            
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                        <a href="bca-cap.html">								<img style="border-radius: 10px;" class="d-block w-100" src="images/aop-6.png" alt="Third slide">
+                        </a>
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 style="font-weight: bolder;font-size: xx-large;">Enterprise Software</h1>
+                            
+                          </div>
+                      </div>
+                      
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </div>
+                  
+            </section>
+
+
+
+            <div class="wpb_column column_container col-sm-12 col-md-3">
+                <div class="column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="wpb_text_column wpb_content_element text-right mobile-left">
+                            <div class="wpb_wrapper">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+<section class="wpb_row row-fluid section-padd bg-light">
+    <div class="container" style="width: 60%;">
+        <div class="row">
+            <div class="wpb_column column_container col-sm-12 col-md-9">
+                <div class="column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="section-head ">
+                            <h6><span></span></h6>
+                            <h1 class="section-title">BBA - Add On Programs</h2>
+                        </div>
+
+                        <div class="empty_space_30 md-hidden sm-hidden"><span class="empty_space_inner"></span></div>
+                    </div>
+                </div>
+            </div>
+            <section id="section-slider1" class="fullwidthbanner-container" aria-label="section-slider">
+                <div id="carouselExampleIndicators3" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                      <li data-target="#carouselExampleIndicators3" data-slide-to="0" class="active"></li>
+                      <li data-target="#carouselExampleIndicators3" data-slide-to="1"></li>
+                      <li data-target="#carouselExampleIndicators3" data-slide-to="2"></li>
+                      
+    
+                    </ol>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <a href="bba-cap.html"><img style="border-radius: 10px;" class="d-block w-100" src="images/aop-7.png" alt="First slide"></a>
+                        
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 style="font-weight: bolder;font-size: xx-large;">Digital Marketing</h1>
+                            
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                        <a href="bba-cap.html"><img style="border-radius: 10px;" class="d-block w-100" src="images/aop-8.png" alt="Second slide"></a>
+                        
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 style="font-weight: bolder;font-size: xx-large;">Business Analytics</h1>
+                            
+                          </div>
+                      </div>
+                      <div class="carousel-item">
+                        <a href="bba-cap.html"><img style="border-radius: 10px;" class="d-block w-100" src="images/aop-9.png" alt="Third slide"></a>
+                        
+                        <div class="carousel-caption d-none d-md-block">
+                            <h1 style="font-weight: bolder;font-size: xx-large;">US-CMA</h1>
+                            
+                          </div>
+                      </div>
+                      
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators3" role="button" data-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators3" role="button" data-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </div>
+                  
+            </section>
+
+
+            <div class="wpb_column column_container col-sm-12 col-md-3">
+                <div class="column-inner">
+                    <div class="wpb_wrapper">
+                        <div class="wpb_text_column wpb_content_element text-right mobile-left">
+                            <div class="wpb_wrapper">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
