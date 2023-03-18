@@ -613,7 +613,7 @@ a.the-title:hover {
 }
 
 .padding-box {
-  padding: 10px 40px;
+  padding: 10px -4px;
   padding-top: 30px;
 }
 
@@ -4891,7 +4891,7 @@ div.line-chart .chart-legend li {
   padding-top: 75px;
 }
 .padd-box{
-  padding: 20px;
+  padding: 10px;
 }
 .padd-box-29{
   padding: 34px 29px;
